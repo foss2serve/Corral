@@ -2,11 +2,13 @@
 
 Corral is a list of repositories of open education materials for teaching open-source development. The materials are developed and maintained by a community of educators. Corral is part of the foss2serve.org project.
 
-## Find Materials
+## Find Material
 
 The list of repositories is in repositories.md.
 
-## Share Your Materials
+## Share Material
+
+Before you share material, make sure you obey all copyrights and licenses attached to the material you intend to share.
 
 Assuming you have a repository that meets the guidelines below, add your repositories to repositories.md as follows:
 
