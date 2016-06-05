@@ -25,3 +25,7 @@ Each repository must...
 - Tag its releases using [semantic versioning](http://semver.org/) (e.g., 0.1.0, 1.0.2)
 
 [What about organizing repositories that organize lessons/activities/etc. into a lesson plan? And even "bigger" ones that organize these lesson plans in to a unit, and even "bigger" organizing units into courses? I'm imagining a tool that takes a list of modules/lessons/activities with their version numbers, and pulls them down into a single directory ready for use. Baby steps. Baby steps.]
+
+## License
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ .
