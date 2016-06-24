@@ -1,3 +1,2 @@
-- https://gitlab.com/StoneyJackson/mothership.git
 - https://github.com/StoneyJackson/git-intro-activity.git
 - https://github.com/StoneyJackson/git-github-workflow-activity.git
