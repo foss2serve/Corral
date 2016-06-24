@@ -6,16 +6,16 @@ Corral is a list of repositories of open education materials for teaching open-s
 
 ## Find Material
 
-The list of repositories is in repositories.md.
+The list of repositories is in urls.md.
 
 ## Share Material
 
 Before you share material, make sure you obey all copyrights and licenses attached to the material you intend to share.
 
-Assuming you have a repository that meets the guidelines below, add your repositories to repositories.md as follows:
+Assuming you have a repository that meets the guidelines below, add your repositories to urls.md as follows:
 
 1. Fork this project
-2. Add to repositories.md a URL to your repository. The URL should start with `http:` or `https:` and end in `.git`.
+2. Add to urls.md a URL to your repository. The URL should start with `http:` or `https:` and end in `.git`.
 3. Issue a pull request back to this project
 
 ## Repository Guidelines
