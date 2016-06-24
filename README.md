@@ -23,7 +23,8 @@ Assuming you have a repository that meets the guidelines below, add your reposit
 The following guidelines will help make your work accessible and reusable for others.
 Each repository must...
 
-- Store exactly one 30-80 minute activity/lesson/etc.
+- Be cohesive in topic
+- Contain no more than approximately 1 weeks worth of material (approximately 3 hours of in-class time)
 - Be publicly accessible (e.g., public on GitLab).
 - Contain a README.md in the root that follows the structure demonstrated in template-README.md.
 - Tag its releases using [semantic versioning](http://semver.org/) (e.g., 1.1, 2.0.1, etc.)
