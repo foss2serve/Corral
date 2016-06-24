@@ -28,7 +28,6 @@ Each repository must...
 - Contain a README.md in the root that follows the structure demonstrated in template-README.md.
 - Tag its releases using [semantic versioning](http://semver.org/) (e.g., 1.1, 2.0.1, etc.)
 
-[What about organizing repositories that organize lessons/activities/etc. into a lesson plan? And even "bigger" ones that organize these lesson plans in to a unit, and even "bigger" organizing units into courses? I'm imagining a tool that takes a list of modules/lessons/activities with their version numbers, and pulls them down into a single directory ready for use. Baby steps. Baby steps.]
 
 ## License
 
