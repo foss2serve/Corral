@@ -1,5 +1,3 @@
-THIS IS A PROTOTYPE OF ONE CORRAL IMPLEMENTATION.
-
 # Corral
 
 Corral is a list of repositories of open education materials for teaching open-source development. The materials are developed and maintained by a community of educators. Corral is part of the foss2serve.org project.
