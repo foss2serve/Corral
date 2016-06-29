@@ -24,7 +24,7 @@ Each repository must...
 - Be cohesive in topic
 - Contain no more than approximately 1 weeks worth of material (approximately 3 hours of in-class time)
 - Be publicly accessible (e.g., public on GitLab).
-- Contain a README.md in the root that follows the structure demonstrated in template-README.md.
+- Contain a README.md in the root that follows the structure demonstrated in README-template.md.
 - Tag its releases using [semantic versioning](http://semver.org/) (e.g., 1.1, 2.0.1, etc.)
 
 
